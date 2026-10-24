@@ -1,0 +1,5 @@
+-  Create the Brain file structure
+- Within the root of the Enterprise Brain (master) we need to create AGENT.md
+- In AGENT.md we must define the other markdowns within the Enterprise Brain
+- Create agent skills
+- Trademark and copyright Second Brain and our first product Third Brain
