@@ -3,3 +3,4 @@
 - In AGENT.md we must define the other markdowns within the Enterprise Brain
 - Create agent skills
 - Trademark and copyright Second Brain and our first product Third Brain
+- Setup MCP tools [Goals](obsidian://open?vault=Obsidian&file=Goals)

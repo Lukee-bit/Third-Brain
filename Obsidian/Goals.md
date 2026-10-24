@@ -1,0 +1,3 @@
+- Token optimization through file structure, indexing, design, AND MCP tools:
+	- https://github.com/activeing123/mcptoon
+	- https://github.com/headroomlabs-ai/headroom

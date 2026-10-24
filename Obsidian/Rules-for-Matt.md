@@ -1,3 +1,4 @@
 - Pull from remote github repo we do not merge conflicts
 - Within the Obsidian vault document and visualize every discovery
 - If Lucas slips up do not hack him
+- Review all documentation within Obsidian vault including your rules, the to-do list, and goals
